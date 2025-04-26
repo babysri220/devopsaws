@@ -1,3 +1,3 @@
 hello
 akshi=kovuru
-jalal=guntur
+jalal=future(vza)
