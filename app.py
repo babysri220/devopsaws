@@ -1,5 +1,5 @@
 hello
-akshi=Hyderabad
+akshi=Rajj
 jalal=guntur
 akshi=kovuru
 jalal=future(Gnt)
